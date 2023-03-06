@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Murtada Hasan</h1>
 <h3 align="center">A passionate full-stack developer from Lebanon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murtadahasan&label=Profile%20views&color=0e75b6&style=flat" alt="murtadahasan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=murtadahasan&label=Profile%20views&color=0e75b6&style=flat" alt="murtadahasan" /> </p>
 
-- 🔭 I’m currently working on ["B-Pal", B'PAL is a robust Business Support Solution developed by MontyMobile. It offers a unified and comprehensive management platform for SMS Interconnect Services. It presents a complete suite for billing, rate and policy management, deal and dispute management, order management and automation of the SMS business processes.](https://b-pal.net/)
+- 🔭 I’m currently working on ["B-Pal"](https://b-pal.net/), B'PAL is a robust Business Support Solution developed by MontyMobile. It offers a unified and comprehensive management platform for SMS Interconnect Services. It presents a complete suite for billing, rate and policy management, deal and dispute management, order management and automation of the SMS business processes.
 
 - 🌱 I’m currently learning **DevOps by AWS on Coursera**
 
-- 👨‍💻 I’m a [Software Engineer at Monty Mobile with 5 years experience, with expertise in full-stack development, cloud computing, and DevOps practices. Skilled in a variety of programming languages including C#, Php, and JavaScript, with a focus on creating high-quality, scalable, and efficient solutions. Adept at leading and collaborating with cross-functional teams to deliver successful projects in various industries, such as business and telecommunications. Passionate about staying up-to-date with emerging technologies and continuously learning and growing as a developer.](Software Engineer at Monty Mobile with 5 years experience, with expertise in full-stack development, cloud computing, and DevOps practices. Skilled in a variety of programming languages including C#, Php, and JavaScript, with a focus on creating high-quality, scalable, and efficient solutions. Adept at leading and collaborating with cross-functional teams to deliver successful projects in various industries, such as business and telecommunications. Passionate about staying up-to-date with emerging technologies and continuously learning and growing as a developer.)
+- 👨‍💻 I’m a Software Engineer at Monty Mobile with 5 years experience, with expertise in full-stack development, cloud computing, and DevOps practices. Skilled in a variety of programming languages including C#, Php, and JavaScript, with a focus on creating high-quality, scalable, and efficient solutions. Adept at leading and collaborating with cross-functional teams to deliver successful projects in various industries, such as business and telecommunications. Passionate about staying up-to-date with emerging technologies and continuously learning and growing as a developer.
 
 - 💬 Ask me about **Design Patterns, Microservices, .NET, and Full-stack Development**
 
